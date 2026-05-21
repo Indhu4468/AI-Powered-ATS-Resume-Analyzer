@@ -1,9 +1,11 @@
 AI-Powered ATS Resume Analyzer System
 
 📌 Overview
+
 An AI-powered Applicant Tracking System (ATS) developed using Python and NLP techniques for automated resume screening, ATS scoring, job description matching, domain classification, and skill gap analysis. The system supports both single and multiple resume analysis with PDF resume viewing and recruiter-friendly report generation.
 
 🚀 Features
+
 ✔ 📄 PDF Resume Viewer (Adobe-like Scrollable View)
 ✔ 🤖 ATS Resume Scoring System
 ✔ 📊 Job Description (JD) Matching
@@ -17,6 +19,7 @@ An AI-powered Applicant Tracking System (ATS) developed using Python and NLP tec
 ✔ 🖥️ Interactive Tkinter GUI Interface
 
 🛠️ Tech Stack
+
 🐍 Python
 🎨 Tkinter
 📑 PDFPlumber
@@ -27,6 +30,7 @@ An AI-powered Applicant Tracking System (ATS) developed using Python and NLP tec
 🔍 NLP & TF-IDF
 
 📂 Project Structure
+
 AI-Powered-ATS-Resume-Analyzer/
 │
 ├── main.py
@@ -43,9 +47,11 @@ AI-Powered-ATS-Resume-Analyzer/
 │   └── ai_developer.csv
 
 📸 Screenshots
+
 <img width="1366" height="768" alt="Screenshot 2026-05-21 203424" src="https://github.com/user-attachments/assets/3fc858cb-79c7-41f8-9c5f-ca322aa5f908" />
 
 📈 Functionalities
+
 Analyze resumes using ATS scoring
 Compare resumes with Job Descriptions
 Detect missing and matching skills
@@ -55,6 +61,7 @@ Generate recruiter-friendly reports
 Compare ATS vs JD scores visually
 
 🎯 Future Enhancements
+
 🔐 Login Authentication System
 ☁️ Database Integration
 🌐 Web-Based Dashboard
