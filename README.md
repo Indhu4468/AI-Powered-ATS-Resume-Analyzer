@@ -34,29 +34,23 @@ An AI-powered Applicant Tracking System (ATS) developed using Python and NLP tec
 AI-Powered-ATS-Resume-Analyzer/
 │
 
-├── main.py
+├── run.py
+
+├── web app.py
 
 ├── analyzer.py
 
-├── utils.py
-
-├── requirements.txt
-
-├── README.md
-
-│
-
 ├── data/
 
-│   ├── data_analyst.csv
+   ├── data_analyst.csv
 
-│   ├── web_dev.csv
+   ├── web_dev.csv
 
-│   ├── software_dev.csv
+   ├── software_dev.csv
 
-│   ├── testing.csv
+   ├── testing.csv
 
-│   └── ai_developer.csv
+   └── ai_developer.csv
 
 📸 Screenshots
 
